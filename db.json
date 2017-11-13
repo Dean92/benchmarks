@@ -13,15 +13,5 @@
     "id":3,
     "label":"Magnet",
     "serviceId": 3
-  },
-  {
-    "id":4,
-    "label":"Hospital Type",
-    "serviceId": 4
-  },
-  {
-    "id":5,
-    "label":"Metropolitan Status",
-    "serviceId": 1
   }
 ]
