@@ -1,0 +1,102 @@
+[
+  {
+    "id":1,
+    "label":"Teaching Status",
+    "serviceId": 1
+  },
+  {
+    "id":2,
+    "label":"Bed Size",
+    "serviceId": 2
+  },
+  {
+    "id":3,
+    "label":"Magnet",
+    "serviceId": 3
+  },
+  {
+    "id":4,
+    "label":"Hospital Type",
+    "serviceId": 4
+  },
+  {
+    "id":5,
+    "label":"Metropolitan Status",
+    "serviceId": 1
+  },
+  {
+    "id":6,
+    "label":"Census Division",
+    "serviceId": 2
+  },
+  {
+    "id":7,
+    "label":"Case Mix",
+    "serviceId": 3
+  },
+  {
+    "id":8,
+    "label":"State",
+    "serviceId": 4
+  },
+  {
+    "id":9,
+    "label":"NCI",
+    "serviceId": 3
+  },
+  {
+    "id":10,
+    "label":"Adult Specialties",
+    "serviceId": 1
+  },
+  {
+    "id":11,
+    "label":"All Hospitals",
+    "serviceId": 2
+  },
+  {
+    "id":12,
+    "label":"Non Magnet",
+    "serviceId": 3
+  },
+  {
+    "id":13,
+    "label":"Bed Size by Teaching",
+    "serviceId": 4
+  },
+  {
+    "id":14,
+    "label":"International",
+    "serviceId": 1
+  },
+  {
+    "id":15,
+    "label":"Benchmark0",
+    "serviceId": 1
+  },
+  {
+    "id":16,
+    "label":"Benchmark1",
+    "serviceId": 1
+  },
+  {
+    "id":17,
+    "label":"Benchmark2",
+    "serviceId": 3
+  },
+  {
+    "id":18,
+    "label":"Benchmark3",
+    "serviceId": 3
+  },
+  {
+    "id":19,
+    "label":"Benchmark4",
+    "serviceId": 4
+  },
+  {
+    "id": 20,
+    "label": "All PG Database",
+    "serviceId": 3
+  }
+]
